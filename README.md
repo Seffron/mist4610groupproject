@@ -7,7 +7,7 @@ Team Name: Group 7
 Team Members:
 1. Audrey Staples - https://github.com/audreystaples/mist4610groupproject 
 2. Angela Ren - https://github.com/angelaaa456/mist4610groupproject 
-3. Sammy Effron - 
+3. Sammy Effron - https://github.com/Seffron/mist4610groupproject
 4. Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject
 5. Tyler Schildkraut - https://github.com/tylerschildkraut/MIST-4610-Project-Group-7
 
