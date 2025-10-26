@@ -9,7 +9,7 @@ Team Members:
 2. Angela Ren - https://github.com/angelaaa456/mist4610groupproject 
 3. Sammy Effron - 
 4. Tanner Sutherland - https://github.com/tannersutherland/mist4610groupproject
-5. Tyler Schildkraut - tylerschildkraut/MIST-4610-Project-Group-7
+5. Tyler Schildkraut - https://github.com/tylerschildkraut/MIST-4610-Project-Group-7
 
 # Scenario Description:
 We wanted to construct a data model that organizes key information used to navigate the NCAA college football landscape. The ultimate goal for our model is to represent the various relationships that exist among Coaches, Teams, Players, Rosters, Games, etc. in a way that mirrors how real NCAA programs operate. Although our data is hypothetical, it represents pertinent information that would meet managerial requirements within the NCAA ecosystem. From surveying game statistics to determining player status on a roster, our database provides insights that would prove highly useful to NCAA stakeholders. Ultimately, we aimed to create a database that would effectively aid managerial decision making within essential business units such as logistics management, decision-making, and reporting within an ever evolving industry.
